@@ -58,7 +58,7 @@ sections:
       together
     media:
       type: ImageBlock
-      url: /images/Image-on-the-left.svg
+      url: /images/Screen_Shot_2021-11-26_at_07.00.13.png
       altText: Hero section image
     styles:
       self:
