@@ -50,6 +50,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
+    subtitle: Subtitle
   - elementId: ''
     colors: colors-a
     title: And a strong value proposition
