@@ -371,6 +371,48 @@ sections:
     type: ContactSection
   - elementId: ''
     colors: colors-f
+    backgroundImage: {}
+    title: Let's do this
+    text: >-
+      The Stackbit theme is flexible and scalable to every need. It can manage
+      any layout and any screen.
+    actions:
+      - type: Button
+        label: Try it now
+        url: /
+        style: primary
+      - type: Button
+        label: Learn More
+        showIcon: true
+        icon: arrowRight
+        url: /
+        style: link
+    styles:
+      self:
+        height: auto
+        width: narrow
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-24
+          - pb-24
+          - pl-4
+          - pr-4
+        alignItems: center
+        justifyContent: center
+        flexDirection: col
+      title:
+        textAlign: left
+      text:
+        textAlign: left
+      actions:
+        justifyContent: flex-start
+    type: CtaSection
+  - elementId: ''
+    colors: colors-f
     title: Where did everyone go?
     text: >
       Learn how top tech companies have learned working remote using our
